@@ -1,4 +1,5 @@
 # GridSync
 
-https://github.com/howeyc/fsnotify
-http://labix.org/mgo
+**Resources**
+- https://github.com/howeyc/fsnotify
+- http://labix.org/mgo
